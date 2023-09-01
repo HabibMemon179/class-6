@@ -1,3 +1,3 @@
 # class-6
-i set a my first codde
-https://willawy-hotteok-ec15bd.nellify.app/
+
+https://main--enchanting-biscotti-f5b0ad.netlify.app/
